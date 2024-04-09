@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<taglib>
+
+<tlbversion>2.0 </tlbversion>
+<jspversion>2.0</jspversion>
+<shortname>userInformation</shortname>
+<info> this is library for user info disply </info>
+<uri>http://test.com</uri>
+
+
+<tag>
+      <name>displayUser</name>
+      <tagclass>com.learn.CustomTagsInJSP.ResultHandler</tagclass>
+      
+
+</tag>
+
+
+
+</taglib>
